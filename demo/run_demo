@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+root=$(cd $(dirname $0)/.. && pwd)
+
+export PATH=${root}/ebin:${root}/demo:$PATH
+
+demo.erl --logging=debug --floor=4 --limit=17

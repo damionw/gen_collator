@@ -1,0 +1,10 @@
+{application, gen_collator,
+ [
+  {vsn, hg},
+  {description, "Generic Collation Behaviour"},
+  {applications, [kernel, stdlib]},
+  {registered, []},
+  {mod, {gen_collator, []}},
+  {env, []}
+ ]}.
+
