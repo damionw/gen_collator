@@ -1,3 +1,5 @@
+%% Copyright 2013 Damion K. Wilson
+%% 
 %% Module declaration
 -module(gen_collator).
 

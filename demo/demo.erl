@@ -1,3 +1,5 @@
+%% Copyright 2013 Damion K. Wilson
+%% 
 #! /usr/bin/env escript
 
 %% Compile this script before running it
